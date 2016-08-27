@@ -1,0 +1,22 @@
+{
+  "name": "dweetdemo",
+  "version": "0.0.1",
+  "description": "Demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argaytan/dweetdemo.git"
+  },
+  "author": "Alberto Gaytan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argaytan/dweetdemo/issues"
+  },
+  "homepage": "https://github.com/argaytan/dweetdemo#readme",
+  "dependencies": {
+    "node-dweetio": "0.0.11"
+  }
+}
